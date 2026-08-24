@@ -3,7 +3,7 @@ name = "skyshield-pro"
 version = "0.1.0"
 requires-python = ">=3.12,<3.14"
 dependencies = [
-    "fastapi[standard]"
+    "fastapi[standard]",
     "sgp4==2.27",
 ]
 
